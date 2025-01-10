@@ -42,3 +42,16 @@ bin/replaydata
 bin_linux/src
 !libgcc_s_dw2-1.dll
 !libstdc++-6.dll
+# others
+*.rep
+*.scx
+*.scm
+*.SCX
+*.ini
+*.exe
+*.txt
+*.MPQ
+*.mpq
+*.bat
+*.snp
+*.spc
